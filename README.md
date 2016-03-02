@@ -53,8 +53,8 @@
 
 # 在校经历
 ###获奖经历
-* 2015.06 [ACM/ICPC 东北区三等奖]()
-* 2015.05 [ACM/ICPC 辽宁省三等奖]()
+* 2015.06 [ACM/ICPC 东北区三等奖](https://github.com/SUTNB/resume/blob/master/acm_db_2.jpg)
+* 2015.05 [ACM/ICPC 辽宁省三等奖](https://github.com/SUTNB/resume/blob/master/acm_l_15_3.jpg)
 * 2015.10 [辽宁省第八届电子商务创新大赛二等奖]
 * 2013 2014 获得两次校级ACM一等奖
 
